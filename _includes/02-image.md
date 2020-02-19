@@ -1,1 +1,1 @@
-! [image description](https://s.pstatic.net/static/www/mobile/edit/2017/0324/mobile_184353754426.gif)
+![image description](https://octodex.github.com/images/yaktocat.png)
